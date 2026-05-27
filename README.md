@@ -1,5 +1,7 @@
 # Olist E-Commerce Analysis
 
+**[View the rendered notebook on GitHub](https://github.com/szymon-pasieka/olist-ecommerce-analysis/blob/main/01_exploration.ipynb)** — full analysis with charts, code, and findings.
+
 Exploratory data analysis of the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — a real public dataset covering ~100,000 orders placed on Olist between 2016 and 2018. The analysis answers two business questions a junior analyst at Olist might be asked to investigate.
 
 ## Key findings
