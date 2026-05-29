@@ -6,9 +6,9 @@ Exploratory data analysis of the [Brazilian E-Commerce Public Dataset by Olist](
 
 ## Key findings
 
-- **Revenue is hyper-concentrated geographically.** São Paulo (SP) alone generates R$5.77M from delivered orders — more than the next three states combined. The top three states São Paulo (SP), Rio de Janeiro (RJ), and Minas Gerais (MG) account for roughly 77% of revenue across the top 10.
-- **Concentration is driven by order volume, not basket size.** São Paulo has the *lowest* average order value (R$142) of the top 10 states. Smaller states like Bahia (R$182) and Goiás (R$171) carry higher AOVs but a tiny fraction of São Paulo's volume.
-- **Category revenue is broad rather than specialist.** Across São Paulo, Rio de Janeiro, and Minas Gerais, the top 10 categories span only a 2.5× gap (R$880K → R$354K), with bed_bath_table, health_beauty, and watches_gifts leading. Olist behaves as a general lifestyle marketplace.
+- **Revenue is hyper-concentrated geographically.** São Paulo (SP) alone generates BRL 5.77M from delivered orders — more than the next three states combined. The top three states São Paulo (SP), Rio de Janeiro (RJ), and Minas Gerais (MG) account for roughly 77% of revenue across the top 10.
+- **Concentration is driven by order volume, not basket size.** São Paulo has the *lowest* average order value (BRL 142) of the top 10 states. Smaller states like Bahia (BRL 182) and Goiás (BRL 171) carry higher AOVs but a tiny fraction of São Paulo's volume.
+- **Category revenue is broad rather than specialist.** Across São Paulo, Rio de Janeiro, and Minas Gerais, the top 10 categories span only a 2.5× gap (BRL 880K → BRL 354K), with bed_bath_table, health_beauty, and watches_gifts leading. Olist behaves as a general lifestyle marketplace.
 - **Delivery time is a strong predictor of customer satisfaction.** Pearson r = -0.334 across 95,824 orders. Average reviews fall from 4.41 (0–7 days) to 2.17 (31–60 days).
 - **Satisfaction has a sharp cliff at 21–30 days, not a gradual decline.** Reviews stay above 4.0 up to 21 days. Past 30 days, 56% of customers leave a 1-star review. The operational implication: preventing slippage past the 21-day threshold matters far more than shaving days off already-fast deliveries.
 
